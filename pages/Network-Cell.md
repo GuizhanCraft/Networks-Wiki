@@ -1,6 +1,6 @@
 # 网络单元
 
-![网络单元](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-cell.png)
+![网络单元](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-cell.png ':size=50%')
 
 网络单元是网络中最基础的存储方案。
 

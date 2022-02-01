@@ -1,6 +1,6 @@
 # 网络监视器
 
-![网络监视器](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-monitor.png)
+![网络监视器](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-monitor.png ':size=50%')
 
 网络监视器用于把与其连接的存储单元接入到网络中。
 
