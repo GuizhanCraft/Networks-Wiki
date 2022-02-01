@@ -1,6 +1,6 @@
 # 网格
 
-![网格](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-grid.png ':size=50%')![网格（带合成）](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-crafting-grid.png ':size=50%')
+![网格](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-grid.png ':size=25%')![网格（带合成）](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-crafting-grid.png ':size=25%')
 
 网格可以让玩家查看当前网络中所有物品的情况。
 
@@ -10,6 +10,8 @@
 左键点击任意物品可以取出1个，多次点击可以增加取出的数量。
 
 也可以直接右键点击物品来取出一组。
+
+## 界面
 
 ![网格界面](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-grid-gui.png ':size=50%')![网格（带合成）界面](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-crafting-grid-gui.png ':size=50%')
 
