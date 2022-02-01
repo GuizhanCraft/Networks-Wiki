@@ -2,6 +2,7 @@
 - 教程
     - [下载与安装](/Install-Networks)
     - [入门](/Getting-Started)
+    - [存储与取出机制](/Network-Mechanism)
 - 分类
     - [合成材料](/Materials)
     - [内存卡与工具](/Tools)
