@@ -1,6 +1,6 @@
 # 网络控制器
 
-![网络控制器](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-controller.png ':size=50%')
+![网络控制器](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-controller.png ':size=25%')
 
 网络控制器是一个网络的大脑。一个可用的网络不能没有网络控制器，当然，也不能有多个网络控制器。
 
