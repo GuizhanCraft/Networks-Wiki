@@ -7,8 +7,8 @@
 - [网络控制器](/Network-Controller)
 - [网桥](/Network-Bridge)
 - [网络监视器](/Network-Monitor)
-- 网络入口
-- 网络出口
+- [网络入口](/Network-Importer)
+- [网络出口](/Network-Exporter)
 - 网络抓取器
 - 网络推送器
 - 网络清除器
