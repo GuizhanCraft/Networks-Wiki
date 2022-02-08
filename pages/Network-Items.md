@@ -9,8 +9,8 @@
 - [网络监视器](/Network-Monitor)
 - [网络入口](/Network-Importer)
 - [网络出口](/Network-Exporter)
-- 网络抓取器
-- 网络推送器
+- [网络抓取器](/Network-Grabber)
+- [网络推送器](/Network-Pusher)
 - 网络清除器
 - [网格](/Network-Grid)
 - [网格（带合成）](/Network-Grid)
