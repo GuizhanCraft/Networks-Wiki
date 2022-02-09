@@ -4,8 +4,8 @@
 
 ## 内容 :id=table-of-contents
 
-- 网络内存卡
+- [网络内存卡](/Network-Memory-Card)
 - 合成蓝图
 - 网络探测器
-- 网络远程访问器（包括升级版）
+- [网络远程访问器（包括升级版）](/Network-Remote)
 - 网络绘制器
