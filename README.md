@@ -1,7 +1,7 @@
-# Networks 网络 非官方中文 Wiki
+# Networks 非官方中文 Wiki
 
-Cloudflare Pages 部署地址 (国外访问速度较快):  
-https://networks.guizhanss.wiki/
+官方Wiki (英文):   
+https://docs.sefiraat.dev/networks/basics/what-is-networks
 
-Webify 部署地址 (国内访问速度较快):  
-https://networks-wiki.guizhanss.cn/
+非官方中文Wiki (已迁移):  
+https://slimefun-wiki.guizhanss.cn/Networks/

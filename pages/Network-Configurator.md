@@ -13,6 +13,6 @@ Shift+右键点击一个带方向的网络方块可以复制其中的配置。
 
 ## 带方向的网络方块
 
-- [网络监视器](/Network-Monitor)
-- [网络抓取器](/Network-Grabber)
-- [网络推送器](/Network-Pusher)
+- [网络监视器](./Network-Monitor)
+- [网络抓取器](./Network-Grabber)
+- [网络推送器](./Network-Pusher)

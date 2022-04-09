@@ -10,6 +10,6 @@
 目前网络监视器支持：
 
 - 无尽科技的存储单元
-- [网络读卡器](/Network-Memory-Shell)
+- [网络读卡器](./Network-Memory-Shell)
 
-网络监视器是一个带有方向选择的网络方块，所以你可以用[网络配置器](/Network-Configurator)来复制方向设置。
+网络监视器是一个带有方向选择的网络方块，所以你可以用[网络配置器](./Network-Configurator)来复制方向设置。

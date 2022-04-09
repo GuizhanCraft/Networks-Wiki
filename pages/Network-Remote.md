@@ -2,7 +2,7 @@
 
 ![网络远程访问器](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-remote.png ':size=25%')
 
-网络远程访问器允许你远程访问[网格](/Network-Grid)。
+网络远程访问器允许你远程访问[网格](./Network-Grid)。
 
 手持一个远程访问器 Shift + 右键一个网格来绑定。
 

@@ -2,7 +2,7 @@
 
 欢迎来到 Networks 的非官方中文 Wiki! 本 Wiki 由[ybw0014](https://github.com/ybw0014)维护。
 
-网络将作为Networks的非官方中文名。[点此下载](/Install-Networks)汉化版网络。
+网络将作为Networks的非官方中文名。[点此下载](./Install-Networks)汉化版网络。
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### 什么是网络?
 
-网络是一系列[网络物品](/Network-Items)紧密连接在一起所构成的存储系统。当然，网络中必须要有网络控制器。
+网络是一系列[网络物品](./Network-Items)紧密连接在一起所构成的存储系统。当然，网络中必须要有网络控制器。
 
 当一个网络方块放置在另一个网络方块边时，可以扩展网络的范围。
 
@@ -22,12 +22,12 @@
 
 ## 教程
 
-- [下载与安装](/Install-Networks)
-- [入门](/Getting-Started)
-- [存储与取出机制](/Network-Mechanism)
+- [下载与安装](./Install-Networks)
+- [入门](./Getting-Started)
+- [存储与取出机制](./Network-Mechanism)
 
 ## 分类
 
-- [合成材料](/Materials)
-- [内存卡与工具](/Tools)
-- [网络物品](/Network-Items)
+- [合成材料](./Materials)
+- [内存卡与工具](./Tools)
+- [网络物品](./Network-Items)

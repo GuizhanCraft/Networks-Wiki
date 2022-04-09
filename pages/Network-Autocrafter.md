@@ -2,7 +2,7 @@
 
 ![网络自动合成机](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-autocrafter.png ':size=25%')![网络自动合成机(预留版)](https://cdn.jsdelivr.net/gh/GuizhanCraft/Networks-Wiki/images/network-autocrafter-withholding.png ':size=25%')
 
-网络自动合成机可以通过提供的[已编码的网络蓝图](/Crafting-Blueprint)来自动合成物品。
+网络自动合成机可以通过提供的[已编码的网络蓝图](./Crafting-Blueprint)来自动合成物品。
 
 每个 Slimefun tick，合成机会尝试使用蓝图配方，并从网络中获取合适的材料进行合成。
 
